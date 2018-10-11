@@ -1,0 +1,29 @@
+.navbar-brand {
+	clear:both;
+}
+
+#collapsable-nav {
+	width:auto;
+	margin:0px;
+	clear:both;
+	margin-left:-15px;
+	margin-right:-15px;
+}
+
+section {
+	background-color:lightgrey;
+	margin-bottom:30px;
+}
+
+ul {
+	margin-left:-15px;
+	margin-right:-15px;
+}
+
+li {
+	border:black solid 2px;
+}
+
+li:hover {
+	background-color:white;
+}
